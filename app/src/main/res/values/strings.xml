@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">StartAndroidLessons</string>
+    <string name="btn_text">Find Beer!</string>
+    <string name="text_view">no beer selected</string>
+    <string-array name="beer_colors">
+        <item>light</item>
+        <item>amber</item>
+        <item>brown</item>
+        <item>dark</item>
+    </string-array>
+</resources>
